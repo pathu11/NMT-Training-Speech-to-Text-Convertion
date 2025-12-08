@@ -1,0 +1,15 @@
+# Core Machine Learning Framework
+torch
+
+# Hugging Face Libraries for Model, Tokenizer, and Training
+transformers
+datasets
+
+# Tokenizer Dependency for M2M100 (SentencePiece is used by M2M100Tokenizer)
+sentencepiece
+
+# Optimization and GPU Acceleration (Highly Recommended)
+accelerate
+
+# Data Handling (Used for data splitting)
+scikit-learn
